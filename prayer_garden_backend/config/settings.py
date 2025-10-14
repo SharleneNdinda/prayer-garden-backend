@@ -39,8 +39,11 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    "rest_framework",
     "prayer_garden_backend.common",
     "prayer_garden_backend.timer",
+    "prayer_garden_backend.prayer",
+    "prayer_garden_backend.plant",
 ]
 
 MIDDLEWARE = [

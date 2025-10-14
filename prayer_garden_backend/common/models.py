@@ -1,5 +1,6 @@
-from typing import Any, Sequence
 import uuid
+from typing import Any, Sequence
+
 from django.db import models
 
 
